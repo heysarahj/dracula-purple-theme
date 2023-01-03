@@ -25,7 +25,7 @@
     "dropdown.background": "#343746",
     "dropdown.border": "#191a21",
     "dropdown.foreground": "#f8f8f2",
-    "editor.background": "#220844",
+    "editor.background": "#1b013d",
     "editor.findMatchBackground": "#ffb3ed",
     "editor.findMatchHighlightBackground": "#ffffff40",
     "editor.findRangeHighlightBackground": "#44475a75",
@@ -1068,7 +1068,7 @@
           "entity.other.inherited-class"
         ],
         "settings": {
-          "foreground": "#70c7ed"
+          "foreground": "#4feeee"
         }
       },
       {
@@ -1104,7 +1104,7 @@
       {
         "scope": "token.error-token",
         "settings": {
-          "foreground": "#F44747"
+          "foreground": "#f45280"
         }
       },
       {
